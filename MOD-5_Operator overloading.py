@@ -20,3 +20,6 @@ devVnuk = Building(12, 'ЖК Новое-Внуково')
 
 print(devGreen)
 print(devGreen == devVnuk)
+
+
+
